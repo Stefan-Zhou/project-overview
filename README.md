@@ -17,6 +17,8 @@ Table of Contents
 
       
 # Eshopool: Android Application Development
+[![Badge](https://img.shields.io/badge/Website-eShopool-%23FCF351)](https://eshopool.com)
+
 
 ## 1 Introduction
 ### 1.1 System Architecture
