@@ -18,7 +18,8 @@ Table of Contents
       
 # Eshopool: Android Application Development
 [![Badge](https://img.shields.io/badge/Website-eShopool-%23FCF351)](https://eshopool.com)
-
+[![course](https://img.shields.io/badge/CNSCC-311-brightgreen)](http://www.lusi.lancaster.ac.uk/CoursesHandbook/ModuleDetails/ModuleDetail?yearId=000114&courseId=016887)
+[![LICENSE](https://img.shields.io/hexpm/l/plug)](https://github.com/eShopool/Android-Application/blob/master/LICENSE)
 
 ## 1 Introduction
 ### 1.1 System Architecture
